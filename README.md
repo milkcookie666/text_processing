@@ -21,11 +21,11 @@
 
 Документация использованных библиотек:
 
-pickle https://docs.python.org/3/library/pickle.html
-nltk https://www.nltk.org/
-re https://docs.python.org/3/library/re.html
-wordcloud https://amueller.github.io/word_cloud/generated/wordcloud.WordCloud.html
-matplotlib https://matplotlib.org/stable/index.html
+pickle https://docs.python.org/3/library/pickle.html \
+nltk https://www.nltk.org/ \
+re https://docs.python.org/3/library/re.html \
+wordcloud https://amueller.github.io/word_cloud/generated/wordcloud.WordCloud.html \
+matplotlib https://matplotlib.org/stable/index.html 
 
 
 ## :paw_prints: Контакты
